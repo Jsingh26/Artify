@@ -133,9 +133,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [your email]
+Your Name - [japinder2004@gmail.com]
 
-Project Link: [https://github.com/yourusername/artify](https://github.com/yourusername/artify)
+Project Link: [https://github.com/Jsingh26/artify](https://github.com/Jsingh26/artify)
 
 ## Acknowledgments
 
