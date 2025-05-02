@@ -108,7 +108,38 @@ artify/
 
 ## Screenshots
 
-*[Insert screenshots of key pages here]*
+registratio-page:
+
+![WhatsApp Image 2025-05-02 at 20 36 23_8a44f52f](https://github.com/user-attachments/assets/2f77b27d-f358-44bb-867b-bed0ebba4749)
+
+login-page:
+
+![WhatsApp Image 2025-05-02 at 20 37 06_d18ee5e0](https://github.com/user-attachments/assets/d039aea5-6bd9-42f2-86c5-858b839e3ca2)
+
+index/dashboard-page:
+
+![WhatsApp Image 2025-05-02 at 20 37 28_a8807000](https://github.com/user-attachments/assets/53ea8c6e-8308-4283-8a5a-2979b8fce7ee)
+![WhatsApp Image 2025-05-02 at 20 37 49_221ac770](https://github.com/user-attachments/assets/5c151d4f-481f-4df5-9d3d-04a72d7748d1)
+![WhatsApp Image 2025-05-02 at 20 38 07_d3392f80](https://github.com/user-attachments/assets/4d4f6eeb-7043-4582-8123-cdbd47dbde2d)
+
+add-item-page:
+
+![WhatsApp Image 2025-05-02 at 20 45 05_9cc9b78a](https://github.com/user-attachments/assets/7057f974-1e02-49ab-a199-5ed0ddbd4d52)
+
+auction-page:
+
+![WhatsApp Image 2025-05-02 at 20 46 18_59bbce59](https://github.com/user-attachments/assets/14c72a22-5f2b-4e90-bc9c-d1044d17f380)
+![WhatsApp Image 2025-05-02 at 20 46 43_4604bd66](https://github.com/user-attachments/assets/28c1741a-1ce8-4c88-98fd-d41011775a34)
+![WhatsApp Image 2025-05-02 at 20 47 08_9a3ecf1d](https://github.com/user-attachments/assets/1171b746-401c-4ce6-8523-ae6ce939901d)
+
+updated-Bid:
+
+![WhatsApp Image 2025-05-02 at 20 47 26_ffbd2e7b](https://github.com/user-attachments/assets/1093f541-0882-4ead-939e-0365bdfaac57)
+
+MySQL-Database:
+
+![WhatsApp Image 2025-05-02 at 20 50 00_81a70a4d](https://github.com/user-attachments/assets/c3f36420-8ffe-4861-b8f7-92eda05d66b9)
+
 
 ## Future Enhancements
 
