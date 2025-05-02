@@ -133,7 +133,8 @@ This project is licensed under the Apache 2.0 License - see the LICENSE file for
 
 ## Contact
 
-Your Name - [japinder2004@gmail.com]
+Japinder Singh - [japinder2004@gmail.com]
+neal malik - [nealmalik07@gmail.com]
 
 Project Link: [https://github.com/Jsingh26/artify](https://github.com/Jsingh26/artify)
 
